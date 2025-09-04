@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Snow 👋
+
+I really enjoy programming as you can tell. Always looking for new algorithms and math to learn! 
+
+You can reach me on Discord: snowoar
 
 <!--
 **snowoar/snowoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
