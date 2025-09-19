@@ -1,4 +1,4 @@
-![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=snowoar)
+![Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=snowoar)
 ## Hi there, I'm Snow 👋
 
 I really enjoy programming as you can tell. Always looking for new algorithms and math to learn! 
